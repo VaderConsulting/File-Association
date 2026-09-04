@@ -24,6 +24,10 @@ C# .NET 2.0 library (`BrendanGrant.Helpers.FileAssociation`) that creates, reads
 
 Open `File Association.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2005 to 2012, .NET Framework 2.0
+
 ## Attribution and provenance
 
 - **Assembly company:** Brendan Grant
