@@ -30,6 +30,7 @@ Open `File Association.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `File Association`.
 - **Assembly company:** Brendan Grant
 - **Assembly copyright:** Copyright © Brendan Grant 2006
 
